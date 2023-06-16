@@ -1,0 +1,1 @@
+* Email doðrulamayý aktif etmek için addIdentityExtension'daki deðeri true'ya çek!

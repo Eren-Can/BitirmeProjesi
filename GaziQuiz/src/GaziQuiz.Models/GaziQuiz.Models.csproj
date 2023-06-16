@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Dtos\" />
+    <Folder Include="Exceptions\Answers\" />
+    <Folder Include="Exceptions\Results\" />
+    <Folder Include="Exceptions\Teachers\" />
+    <Folder Include="Exceptions\Topics\" />
+    <Folder Include="ViewModels\Answers\" />
+    <Folder Include="ViewModels\Questions\Response\" />
+    <Folder Include="ViewModels\Results\Response\" />
+    <Folder Include="ViewModels\Students\Request\" />
+    <Folder Include="ViewModels\Teachers\Request\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CorePackages\CorePackages.csproj" />
+  </ItemGroup>
+
+</Project>

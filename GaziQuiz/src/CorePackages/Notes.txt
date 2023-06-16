@@ -1,0 +1,6 @@
+﻿* Global Exception Middleware akftif etmek için Program.cs'e --> app.ConfigureCustomExceptionMiddleware();
+
+Yüklemen Gerekenler
+
+Microsoft.AspNetCore.Mvc.Core			--> Version="2.2.5"
+Microsoft.EntityFrameworkCore			--> Version="6.0.10"

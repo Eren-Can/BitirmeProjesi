@@ -1,0 +1,3 @@
+﻿Yüklenmesi Gereknler
+
+Microsoft.AspNetCore.Identity.EntityFrameworkCore	--> Version="6.0.10"

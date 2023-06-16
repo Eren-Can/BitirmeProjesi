@@ -1,0 +1,7 @@
+﻿
+
+--- Yüklenmesi Gerekenler ---
+AspNetCoreRateLimit								--> Version="5.0.0"
+Microsoft.AspNetCore.Authentication.JwtBearer	--> Version="6.0.10"
+Microsoft.AspNetCore.Mvc.Versioning				--> Version="5.0.0"
+Microsoft.EntityFrameworkCore.Design			--> Version="6.0.10"

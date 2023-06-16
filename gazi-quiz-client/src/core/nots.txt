@@ -1,0 +1,4 @@
+- crypto-js 
+- @types/crypto-js
+- react-toastify
+- axios
